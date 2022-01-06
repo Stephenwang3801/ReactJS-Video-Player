@@ -9,3 +9,5 @@ Through building this project, I learned:
 - Using asynchronous Javascript and APIs to fetch data
 - Dataflow and the managing of states in React
 - Passing of props between parent and child components
+
+![alt text](https://github.com/Stephenwang3801/ReactJS-Video-Player/blob/main/img/Screenshot.png)
